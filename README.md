@@ -12,11 +12,5 @@ A live code editor supported by HTML, CSS and JavaScript.
 This project is the output of my hard working. To develop your skill, there is no way without practicing. I developed this
 for practicing purpose.
 
-## Made By
-[Abdur Rahman Robin](https://github.com/robin3317)
-- [Facebook](https://facebook.com/robin4java)
-- [Twitter](https://twitter.com/robin4java)
-- [Linkedin](https://www.linkedin.com/in/robin4java/)
 
-# Feel Free To Use This Code
 ### --------------Happy Coding------------------
